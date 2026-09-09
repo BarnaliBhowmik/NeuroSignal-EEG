@@ -1,0 +1,5 @@
+Model,Evaluation Level,Accuracy,F1 Score
+Random Forest,Epoch-level,55.21%,59.05%
+SVM,Epoch-level,58.85%,64.25%
+1D CNN,Epoch-level,71.88%,71.88%
+1D CNN,Recording-level,81.25%,80.00%
